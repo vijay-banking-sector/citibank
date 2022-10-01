@@ -1,4 +1,4 @@
 .classpath
 .project
 DBUtils.class
-node_modules/
+/node_modules
